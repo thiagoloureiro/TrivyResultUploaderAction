@@ -1,0 +1,5 @@
+name: 'Trivy Result Uploader'
+description: 'Fetch files and send them to an API'
+runs:
+  using: 'node16'
+  main: 'index.js'
